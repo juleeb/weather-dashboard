@@ -1,0 +1,44 @@
+.jumbotron {
+    text-align: center;
+}
+.searchhead {
+    text-align: center;
+}
+.search {
+    background-color: lightblue;
+    border-radius: 5px;
+}
+.citydata {
+    background-color: lightblue;
+    border-radius: 5px;
+}
+.forecasthead {
+    background-color:lightblue;
+    text-align: center;
+    border-radius: 5px;
+}
+.days {
+    background-color: lightblue;
+    margin-top: 5px;
+}
+.forecast {
+    background-color: #34bdeb;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+.city {
+    background-color:#34bdeb;
+    color: white;
+    width: 83%;
+    margin-left: 2%;
+    margin-bottom: 1%;
+}
+#search-city {
+    width: 83%;
+    margin: 2%;
+    background-color: white;
+}
+#searchtext {
+    margin-left: 2%;
+}
